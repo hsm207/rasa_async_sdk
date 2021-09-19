@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains contain to accompany the [Can Rasa's Action Server Do Asynchronous Calls?]() blog post on Medium.
+This repository contains contain to accompany the [Can Rasa's Action Server Do Asynchronous Calls?](https://pub.towardsai.net/can-rasas-action-server-do-asynchronous-calls-48c45f2dceb0) blog post on Medium.
 
 # Usage
 
