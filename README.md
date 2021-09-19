@@ -4,5 +4,5 @@ This repository contains contain to accompany the [Can Rasa's Action Server Do A
 
 # Usage
 
-1. Run `make run-action-server`
+1. Run `make run-action-server threads=1`
 2. In another terminal, run `make benchmark-action-server`
